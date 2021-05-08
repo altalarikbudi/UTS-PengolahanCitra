@@ -11,7 +11,7 @@ Link demo youtube : https://youtu.be/_RYG4UN0KXQ
 
 Output:
 
-![Uploading 1.JPG…](![2](https://user-images.githubusercontent.com/83845486/117527795-d37f0800-aff8-11eb-80f9-e1b9703f599f.JPG)
+(![2](https://user-images.githubusercontent.com/83845486/117527795-d37f0800-aff8-11eb-80f9-e1b9703f599f.JPG)
 ![3](https://user-images.githubusercontent.com/83845486/117527796-d37f0800-aff8-11eb-8a6f-b5adf4aa6fd1.JPG)
 ![4](https://user-images.githubusercontent.com/83845486/117527797-d4179e80-aff8-11eb-9647-5b02b913c6da.JPG)
 ![5](https://user-images.githubusercontent.com/83845486/117527798-d4b03500-aff8-11eb-9b02-31c0e3d38ec6.JPG)
