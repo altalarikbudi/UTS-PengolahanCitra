@@ -1,4 +1,4 @@
-# utspengolahancitra
+# UTS-PengolahanCitra
 
 UTS Pengolahan Citra
 
